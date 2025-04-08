@@ -5,5 +5,6 @@ import "go-in-practice/samples"
 func main() {
 	// samples.TcpTest()
 	// samples.HttpGetTest()
-	samples.PrintConcurrent()
+	// samples.PrintConcurrent()
+	samples.ChannelPrint()
 }
