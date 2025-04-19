@@ -12,7 +12,6 @@ func main() {
 	// samples.FlagCli()
 	// samples.JsonConfig()
 
-	// concurrency.EchoStdIn()
 	// concurrency.AnonGoRoutine()
 	// concurrency.SimpleGzip()
 	concurrency.ConcurrentGzip()
