@@ -1,0 +1,2 @@
+test-prefix 2025/05/06 09:57:51 /Users/hesed/Development/personal/go-in-practice/logging/to-file/main.go:14: Regular message
+test-prefix 2025/05/06 09:57:51 /Users/hesed/Development/personal/go-in-practice/logging/to-file/main.go:15: Oops! Fatal error.
